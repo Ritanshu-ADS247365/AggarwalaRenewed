@@ -68,7 +68,7 @@ const sections: LegalSection[] = [
   },
   {
     heading: "13. Contact us",
-    body: `${site.legalName}, ${site.addressLines[0]}, ${site.addressLines[1]}. Email ${site.email} or call ${site.phone}.`,
+    body: `${site.legalName}, ${site.addressLines[0]}, ${site.addressLines[1]}. Email ${site.email}.`,
   },
 ];
 
