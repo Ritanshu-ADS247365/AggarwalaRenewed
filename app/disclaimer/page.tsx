@@ -51,7 +51,7 @@ const sections: LegalSection[] = [
   },
   {
     heading: "Contact us",
-    body: `Questions about this disclaimer? Email ${site.email} or call ${site.phone}.`,
+    body: `Questions about this disclaimer? Email ${site.email}.`,
   },
 ];
 
