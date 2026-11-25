@@ -21,6 +21,9 @@ export const metadata: Metadata = {
   },
   description:
     "Aggarwala delivers IT & ITES, software development, mobile apps and digital marketing for homes and businesses. Accelerating business growth.",
+  icons: {
+    icon: "/Assets/logo/logo.png",
+  },
 };
 
 export const viewport: Viewport = {
